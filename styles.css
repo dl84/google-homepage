@@ -14,7 +14,12 @@ ul {
 .left {
     float: left;
 }
-
+.im_an_icon {
+    opacity: 0.75;
+    color: #000;
+    text-decoration: none;
+    margin-bottom:  10px;
+}
 .right {
     float: right;
 }
@@ -60,11 +65,6 @@ a.si:visited, a.si:hover {
     text-decoration: none;
 }
 
-a.im_an_icon:visited, a.im_an_icon:hover {
-        opacity: 0.75;
-        color: #000;
-        text-decoration: none;
-}
 .search {
     height: 50%;
     width: 50%;
